@@ -1,4 +1,4 @@
-# Summary
+# JavaScript学习笔记
 
-* [Introduction](README.md)
+* [说明](README.md)
 
