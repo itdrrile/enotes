@@ -1,16 +1,8 @@
 # JavaScript实现
-<table style="border-style:none">
-    <tr>
-        <td style="border-style:none;vertical-align:middle">
-            <p>核心（ECMAScript）</p>
-            <p>文档对象模型（DOM）</p>
-            <p>浏览器对象模型（BOM）</p>
-        </td>
-        <td style="border-style:none;vertical-align:middle">
-            <p>![JavaScript实现](../attachments/JavaScript实现.png)</p>
-        </td>
-    </tr>
-</table>
++ 核心（ECMAScript）
++ 文档对象模型（DOM）
++ 浏览器对象模型（BOM）  
+![JavaScript实现](../attachments/JavaScript实现.png)
 
 # [核心ECMAScript](ECMAScript标准.md) 【基础】
 
